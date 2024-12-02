@@ -46,6 +46,7 @@ npm start
 
 yarn start
 
-# RN_AmazonClone
+```
 
-![](../amazon.gif)
+![](./assets/amazon.gif)
+```
