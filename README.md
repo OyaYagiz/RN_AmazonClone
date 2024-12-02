@@ -48,6 +48,7 @@ yarn start
 
 ```
 
+<<<<<<< HEAD
 ![](amazon-ezgif.gif)
 
 ```
