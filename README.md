@@ -51,3 +51,4 @@ yarn start
 ![](amazon.gif)
 
 ```
+# RN_AmazonClone
