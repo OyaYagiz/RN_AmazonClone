@@ -46,7 +46,4 @@ npm start
 
 yarn start
 
-```
-![](amazon-ezgif.gif)
 
-```
