@@ -48,7 +48,6 @@ yarn start
 
 ```
 
-![](amazon.gif)
+![](amazon-ezgif.gif)
 
 ```
-# RN_AmazonClone
