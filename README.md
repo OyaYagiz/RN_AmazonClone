@@ -48,5 +48,6 @@ yarn start
 
 ```
 
-![](./assets/amazon.gif)
+![](amazon.gif)
+
 ```
