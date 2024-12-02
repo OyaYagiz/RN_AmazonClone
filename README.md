@@ -45,3 +45,4 @@ npm start
 # or
 
 yarn start
+# RN_AmazonClone
