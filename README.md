@@ -19,31 +19,5 @@ Key technologies used in this project:
 - **React Navigation**
 - **Context API** (or Redux, depending on the implementation)
 
-## Setup and Run
-
-Follow these steps to set up and run the project locally:
-
-## 1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/AmazonClone.git
-cd AmazonClone
-```
-
-## 2. Install dependencies:
-
-npm install
-
-# or
-
-yarn install
-
-## 3.Start the application:
-
-npm start
-
-# or
-
-yarn start
 
 
