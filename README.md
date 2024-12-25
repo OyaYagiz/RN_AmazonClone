@@ -19,5 +19,4 @@ Key technologies used in this project:
 - **React Navigation**
 - **Context API** (or Redux, depending on the implementation)
 
-
-
+![](amazon-ezgif.gif)
